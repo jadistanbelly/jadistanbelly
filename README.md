@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Fascinated by all things data<br><br>🔭 Currently working on a text analysis competition<br><br>🌱 These days I am attending a data analyst bootcamp at NPower Canada<br><br>👯 I’m looking to collaborate on DS competitions and projects<br><br>
+👨‍💻 Fascinated by all things data<br><br>🔭 Currently working on dashboarding projects <br><br>👯 I’m looking to collaborate on DS competitions and projects<br><br>
 
 
 ## 🌐 Socials:
