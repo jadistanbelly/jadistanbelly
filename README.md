@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Fascinated by all things data<br><br>🔭 Currently working on dashboarding projects <br><br>👯 I’m looking to collaborate on DS competitions and projects<br><br>
+👨‍💻 Fascinated by all things tech<br><br>🔭 
 
 
 ## 🌐 Socials:
